@@ -2,13 +2,13 @@
 
 ## :hammer: Installation
 
-See [Quick Start Guide](QUICKSTART.md) for installation instructions.
+See [Quick Start Guide](docs/QUICKSTART.md) for installation instructions.
 
 ## :blue_book: Documentation
 
 Here are some resources to get you started! If you find any challenges from this project are not properly documented or are unclear, please raise an issueand let us know! This is a fun, safe environment - don't worry if you're a GitHub newbie! :heart:
 
-* [Quick Start Guide](QUICKSTART.md)
+* [Quick Start Guide](docs/QUICKSTART.md)
 * [Rubrik API Documentation](https://github.com/rubrikinc/api-documentation)
 
 ## :muscle: How You Can Help
